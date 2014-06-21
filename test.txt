@@ -1,1 +1,2 @@
 To check the push command
+To chec the scenario like after push command from ptcase183 of local machine now to check the pull command
